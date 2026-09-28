@@ -5,7 +5,7 @@ from the provided Figma file, as a fully responsive React application.
 
 Figma: https://www.figma.com/design/Yqq9qC4hZqj0adhv5kJUNG/Untitled?node-id=1-503
 
-- **Live URL:** https://hydra-curls-figma-react.vercel.app/
+- **Live URL:** https://parachute-hydra-curls-landing-page.vercel.app/
 - **Repository:** https://github.com/Latasharma26/parachute-hydra-curls-landing-page
 
 ## Tech stack
