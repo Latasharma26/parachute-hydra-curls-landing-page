@@ -19,11 +19,9 @@ export function SiteFooter() {
       <Container className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
         <div>
           <img
-            src="/images/footer-logo.webp"
-            alt="Hydra Curls"
-            width={100}
-            height={80}
-            className="h-auto w-24 object-contain"
+            src="/images/brand-logo.png"
+            alt="Parachute Advansed Hydra Curls"
+            className="h-auto w-32 object-contain"
           />
           <p className="mt-4 max-w-xs text-sm text-white/70">
             Advanced hair care specially designed for Arab curly, coily &amp;

@@ -39,8 +39,12 @@ export function SiteHeader() {
       )}
     >
       <Container className="flex h-full items-center justify-between">
-        <a href="#home" className="text-lg font-bold text-white">
-          Hydra <span className="text-brand-cyan">Curls</span>
+        <a href="#home" className="flex items-center">
+          <img
+            src="/images/brand-logo.png"
+            alt="Parachute Advansed Hydra Curls"
+            className="h-10 sm:h-12 w-auto object-contain"
+          />
         </a>
 
         <nav aria-label="Primary" className="hidden items-center gap-10 lg:flex">
@@ -72,8 +76,12 @@ export function SiteHeader() {
           </SheetTrigger>
           <SheetContent side="right" className="w-full max-w-xs bg-brand-navy">
             <SheetHeader>
-              <SheetTitle className="text-white">
-                Hydra <span className="text-brand-cyan">Curls</span>
+              <SheetTitle className="text-left">
+                <img
+                  src="/images/brand-logo.png"
+                  alt="Parachute Advansed Hydra Curls"
+                  className="h-10 w-auto object-contain"
+                />
               </SheetTitle>
             </SheetHeader>
             <nav
